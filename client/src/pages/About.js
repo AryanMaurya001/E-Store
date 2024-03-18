@@ -14,16 +14,7 @@ const About = () => {
         </div>
         <div className="col-md-4">
           <p className="text-justify mt-2">
-          Welcome to Ecommerce App ,where passion meets innovation.
-           We're dedicated to curating an exceptional shopping experience, 
-           tailored just for you. Our journey began with a simple goal: 
-           to connect people with the products they love, all within a 
-           seamless and secure platform. With a team driven by creativity 
-           and a commitment to excellence, we strive to redefine online 
-           shopping by offering a diverse range of products, coupled with 
-           unparalleled customer service. Join us on this exciting adventure
-            as we continue to push boundaries, exceed expectations,
-             and deliver joy with every purchase made at Ecommerce App.
+          Welcome to our streamlined E-commerce app, your go-to destination for all things tech-related! Whether you're in search of cutting-edge laptops, ergonomic mice, premium earphones, or chargers for mobile phones and laptops, our extensive selection has you covered. Explore our user-friendly interface and discover the perfect products to enhance your digital experience. With our commitment to quality and convenience, we ensure that every purchase leaves you fully satisfied. Welcome aboard to effortless tech shopping at its finest!
           </p>
         </div>
       </div>

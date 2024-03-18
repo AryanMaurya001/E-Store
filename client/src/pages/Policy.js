@@ -19,6 +19,7 @@ const Policy = () => {
           and provide fair terms for transactions. From our refund and return policies to our commitment
           to data protection, you can shop with confidence knowing that your satisfaction and security are 
           our top priorities.
+          <h3><b> All rights reserved to Aryan Kumar Maurya © 2024.</b></h3>
         </div>
       </div>
     </Layout>
